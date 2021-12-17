@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages/ start 17.12.21
 
 You can use the [editor on GitHub](https://github.com/JanKoss/www/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Just got github as a interest and im watching around ;)
 
-### Markdown
+### Day 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tutaj idzietresc 
 
 ```markdown
 Syntax highlighted code block
@@ -31,6 +31,15 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JanKoss/www/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+Thanks for entrusting GitHub Inc. (“GitHub”, “we”) with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.
+
+All capitalized terms have their definition in GitHub’s Terms of Service, unless otherwise noted here.
+
+
+
+
 
 ### Support or Contact
 
