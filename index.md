@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages/ start 17.12.21
 
-You can use the [editor on GitHub](https://github.com/JanKoss/www/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Just got github as a interest and im watching around ;)
 
@@ -23,8 +22,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
@@ -37,6 +34,7 @@ Thanks for entrusting GitHub Inc. (“GitHub”, “we”) with your source code
 
 All capitalized terms have their definition in GitHub’s Terms of Service, unless otherwise noted here.
 
+########AND THAT ONE?
 
 
 
