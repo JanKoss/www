@@ -5,9 +5,9 @@ Just got github as a interest and im watching around ;)
 
 ### Day 1
 
-#1111111
-##2222222
-###3333333
+# 1111111
+## 2222222
+### 3333333
 Tutaj idzietresc 
 
 ```markdown
