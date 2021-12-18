@@ -1,3 +1,4 @@
-# WESOYCH SWIAT ORAZ SZCZESLIWEGO NOWEGO ROKU!!;) 
-## Zycza DJDK!;)
+# Wesołych Świąt i Szczęśliwego Nowego Roku!
+# Merry Christmas and Happy New Year!
+##  DJDK!;)
 
